@@ -1,0 +1,6 @@
+{
+  "name": "Futurekul Courses",
+  "description": "An elegant, responsive portal to browse Futurekul Live and Recorded batches with dynamic API integration and interactive exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
