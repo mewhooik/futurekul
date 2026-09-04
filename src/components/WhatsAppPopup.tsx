@@ -7,7 +7,7 @@ interface WhatsAppPopupProps {
 }
 
 export default function WhatsAppPopup({ 
-  channelUrl = "https://www.whatsapp.com/channel/0029VbCUE8230LKHYMCduo13" 
+  channelUrl = "https://www.whatsapp.com/channel/0029Vb8yO0c05MUeL51hG330" 
 }: WhatsAppPopupProps) {
   const [isOpen, setIsOpen] = useState(true);
 
